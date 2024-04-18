@@ -1,0 +1,21 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": "bitremotescope",
+        "name": "ui/hero"
+      },
+      "isSymlink": false,
+      "hash": "dc013cab3c6ce0460f5cd71b3ae4da726ba8ae18"
+    },
+    {
+      "id": {
+        "scope": "bitremotescope",
+        "name": "ui/card"
+      },
+      "isSymlink": false,
+      "hash": "18af43e8f4e62d89c97c200cdf72dd88a0ed0637"
+    }
+  ],
+  "lanes": []
+}
